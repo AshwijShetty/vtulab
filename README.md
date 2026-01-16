@@ -1,5 +1,8 @@
 hwllo 
 
+https://l1nk.dev/love002
+
+
 cd c
 mkdir Hi
 cd Hi
